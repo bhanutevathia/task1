@@ -4,8 +4,8 @@ import styled from 'styled-components';
 const DashboardWrapper = styled.div`
     background-color: #ffffff;
     padding: 25px;
-    border-radius: 12px;
-    max-width: 500px;
+    border-radius: 50px;
+    max-width: 600px;
     margin: 30px auto;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
     transition: all 0.3s ease;
