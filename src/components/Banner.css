@@ -47,7 +47,7 @@
 .banner-timer {
     font-size: 1rem;
     font-weight: 500;
-    color: rgba(255, 255, 255, 0.8);
+    color: #006eb9;
 }
 
 @media (max-width: 768px) {
