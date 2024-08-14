@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 
+//styled components for Dashboard
 const DashboardWrapper = styled.div`
     background-color: #ffffff;
     padding: 25px;

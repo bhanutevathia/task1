@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
+//styled components for Banner
 const BannerWrapper = styled.div`
     background-color: #006eb9;
     padding: 25px;
